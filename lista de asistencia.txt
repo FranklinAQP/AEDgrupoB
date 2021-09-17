@@ -3,3 +3,4 @@ Docente:
 ALumnos:
 Invitado Grupo B
     Jenny  Huanca  Anquise
+    Diego Rivas
